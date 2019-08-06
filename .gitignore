@@ -1,0 +1,4 @@
+*.settings
+JavaPractice/bin/
+*.classpath
+*.project
